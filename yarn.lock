@@ -4302,7 +4302,7 @@ __metadata:
   resolution: "@calcom/kysely@workspace:packages/kysely"
   dependencies:
     "@types/pg": ^8.10.7
-    kysely: ^0.26.3
+    kysely: ^0.28.11
     pg: ^8.11.3
   languageName: unknown
   linkType: soft
@@ -31145,10 +31145,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"kysely@npm:^0.26.3":
-  version: 0.26.3
-  resolution: "kysely@npm:0.26.3"
-  checksum: 2f0efdf31e7dfdbad2bc47780f24416f090f5662ae7256af7a200a75aaee7c7f04ffb29ead60da454a9477385c29e828e0978341f2a2aae97679f074823148b0
+"kysely@npm:^0.28.11":
+  version: 0.28.12
+  resolution: "kysely@npm:0.28.12"
+  checksum: 2ffa012d63bdc211da276dd14b964d038bd7d5c19d2efb4aca3f6b09af96364983282a2f674b45f356b592ac4d0de193f4d95e140748d9d2d38d878517f60bb2
   languageName: node
   linkType: hard
 
